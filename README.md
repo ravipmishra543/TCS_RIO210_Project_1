@@ -2,6 +2,10 @@
 
 This project was developed during my Summer Internship with TCSion, as part of my MCA degree program. The objective was to create a comprehensive Python package that automates the detection of various emotions from text paragraphs and predicts the overall emotion. This end-to-end solution integrates several components to ensure accurate and efficient emotion classification using advanced AI models.
 
+## Acknowledgements
+
+I am deeply grateful to my industry mentor, Dr. Himdweep Walia, whose guidance and unwavering support have been invaluable throughout my internship. Dr. Walia’s expertise and constructive feedback greatly enhanced my learning experience and contributed significantly to the successful completion of my project. I also extend my sincere thanks to TCSion and Amity Online University for offering me this invaluable opportunity. Their commitment to fostering educational and professional growth has been instrumental in my development. Furthermore, I would like to acknowledge the contributions of my colleagues and friends, whose insightful feedback and encouragement were crucial in navigating the challenges of the internship. Their support not only provided motivation but also enriched my understanding and approach to the tasks at hand.
+
 ## Project Description
 
 The Python package provided in this repository is designed to handle the entire process of emotion detection from text data. It includes the following functionalities:
