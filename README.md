@@ -1,6 +1,6 @@
 # Project Overview
 
-This project was developed during my Summer Internship with TCSion, as part of my MCA degree program. The objective was to create a comprehensive Python package that automates the detection of various emotions from text paragraphs and predicts the overall emotion. This end-to-end solution integrates several components to ensure accurate and efficient emotion classification using advanced AI models.
+This project was developed during my Internship with TCSion, as part of my MCA degree program. The objective was to create a comprehensive Python package that automates the detection of various emotions from text paragraphs and predicts the overall emotion. This end-to-end solution integrates several components to ensure accurate and efficient emotion classification using advanced AI models.
 
 ## Acknowledgements
 
